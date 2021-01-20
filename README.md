@@ -45,7 +45,7 @@ Vue.js e frontend Bootstrap.
 *Menu ristorante*  
 Su commissione.  
 Vue.js e frontend Vuetify.  
-[(1)](masseria-menu.jpg?raw=1)
+[(1)](masseria-menu.jpg?raw=1) [(link)](https://ristorantemasseria.github.io/menu/)
 ### 👓 irene_VR
 *Una persona in una stanza*  
 Esperienza VR.  
