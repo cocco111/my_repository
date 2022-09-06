@@ -51,7 +51,7 @@ Vue.js e frontend Vuetify.
 Esperienza VR.  
 Test di WebVR. Modello 3D ottenuto da foto.
 ### 📋 missing
-*Cosa devo fare?*
-TODO list divisa in categorie. Si possono anche caricare foto e audio.
-React CRA e frontend Bootstrap.
-[(1)](missing1.png?raw=1)[(2)](missing2.png?raw=1)[(3)](missing3.png?raw=1)
+*Cosa devo fare?*  
+TODO list divisa in categorie. Si possono anche caricare foto e audio.  
+React CRA e frontend Bootstrap.  
+[(1)](missing1.png?raw=1) [(2)](missing2.png?raw=1) [(3)](missing3.png?raw=1)
