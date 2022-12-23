@@ -58,5 +58,5 @@ React CRA e frontend Bootstrap.
 ### 🎄 calendario_avvento
 *Festeggia il natale con l'AI*  
 Calendario dell'avvento animato in cui ogni giorno si sbloccano regali. Le immagini sono generate da una AI.
-React CRA, frontend Bootstrap, immagini DALL·E 2.
+React CRA, frontend Bootstrap, immagini DALL·E 2.  
 [(1)](calendario_avvento1.png?raw=1) [(2)](calendario_avvento2.png?raw=1)
