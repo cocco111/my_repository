@@ -55,3 +55,8 @@ Test di WebVR. Modello 3D ottenuto da foto.
 TODO list divisa in categorie. Si possono anche caricare foto e audio.  
 React CRA e frontend Bootstrap.  
 [(1)](missing1.png?raw=1) [(2)](missing2.png?raw=1) [(3)](missing3.png?raw=1)
+### 🎄 calendario-avvento
+*Festeggia il natale con l'AI*  
+Calendario dell'avvento animato in cui ogni giorno si sbloccano regali. Le immagini sono generate da una AI.
+React CRA, frontend Bootstrap, immagini DALL·E 2.
+[(1)](calendario-avvento1.png?raw=1) [(2)](calendario-avvento2.png?raw=1)
