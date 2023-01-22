@@ -38,7 +38,7 @@ Vanilla Javascript ES6 con Web Bluetooth. Frontend Bootstrap.
 [(1)](dogtracker.png?raw=1)
 ### 🏪 lista_spesa
 *Cosa devo comprare?*  
-Lista spesa.  
+Lista spesa. Con login e notifiche per gli utenti.
 Vue.js e frontend Bootstrap.  
 [(1)](lista_spesa.jpg?raw=1)
 ### 📕 masseria-menu
