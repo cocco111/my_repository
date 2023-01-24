@@ -60,6 +60,6 @@ React CRA e frontend Bootstrap.
 Calendario dell'avvento animato in cui ogni giorno si sbloccano regali. Le immagini sono generate da una AI.
 React CRA, frontend Bootstrap, immagini DALL·E 2.  
 [(1)](calendario_avvento1.png?raw=1) [(2)](calendario_avvento2.png?raw=1)
-### Tic Tac Toe
+### ⭕ Tic Tac Toe
 Progetto test.
 Django, frontend Vue, Bootstrap
