@@ -26,7 +26,7 @@ c# e libreria .NET per accesso alla webcam.
 Comprensivo di calendario, cartelle cliniche, fatturazione, acquisizione dati, lettore medagliette NFC...  
 Su commissione.  
 Sviluppato in Ruby on Rails. Frontend Bootstrap. Disponibile anche in versione offline su Raspberry Pi.  
-[(1)](vettricolore1.png?raw=1) [(2)](vettricolore2.png?raw=1) [(3)](vettricolore3.png?raw=1) [(4)](vettricolore4.png?raw=1)
+[(1)](vettricolore1.png?raw=1) [(2)](vettricolore2.png?raw=1) [(3)](vettricolore3.png?raw=1) [(4)](vettricolore4.png?raw=1) [(5)](vettricolore1.md) [(6)](vettricolore2.md)
 ### 📌 destinazioni
 *La strada più breve*  
 Progressive Web App navigatore a destinazioni multiple, con ricerca del percorso più rapido.  
