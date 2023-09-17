@@ -14,7 +14,7 @@ Usa accelerometri e motore fisico in LUA.
 *Dove è il mio gatto?*  
 Traccia il proprio gatto grazie a un miniGPS collare. Nell'attesa di risposta il gatto sullo schermo scherza con te.  
 App Android nativa, grafica fumettosa.  
-[(1)](cattracker1.png?raw=1) [(2)](cattracker2.png?raw=1) [(3)](cattracker3.png?raw=1) [(4)](cattracker1.webm?raw=1) [(5)](cattracker2.webm?raw=1) [(6)](cattracker3.webm?raw=1)
+[(1)](cattracker1.png?raw=1) [(2)](cattracker2.png?raw=1) [(3)](cattracker3.png?raw=1) [(4)](cattracker1.md) [(5)](cattracker2.md) [(6)](cattracker3.md)
 ### 💠 mosaic
 *Trasforma le tue foto in un mosaico*  
 Trasforma set di foto, o scatti della webcam, in tessere di un mosaico.  
