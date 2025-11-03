@@ -39,7 +39,7 @@ Vanilla Javascript ES6 con Web Bluetooth. Frontend Bootstrap.
 [(1)](dogtracker.png?raw=1)
 ### 🏪 lista_spesa
 *Cosa devo comprare?*  
-Lista spesa. Con login e notifiche per gli utenti.
+Lista spesa. Con login, notifiche per gli utenti e assistente AI.
 Vue.js e frontend Bootstrap.  
 [(1)](lista_spesa.jpg?raw=1)
 ### 📕 masseria-menu
@@ -61,6 +61,12 @@ React CRA e frontend Bootstrap.
 Calendario dell'avvento animato in cui ogni giorno si sbloccano regali. Le immagini sono generate da una AI.
 React CRA, frontend Bootstrap, immagini DALL·E 2.  
 [(1)](calendario_avvento1.png?raw=1) [(2)](calendario_avvento2.png?raw=1)
+### 🩺 vetassistant
+*Mi serve un consulto veterinario*
+Chat con assistente AI, addestrato su testi di veterinaria.
+Next.JS, TailwindCSS, Gemini con RAG (retrieval-augmented generation).
+[(1)](vetassistant.png?raw=1) [(2)](vetassistant2.png?raw=1)
 ### ⭕ Tic Tac Toe
 Progetto test.
 Django, frontend Vue, Bootstrap
+
