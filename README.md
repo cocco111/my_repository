@@ -14,39 +14,39 @@ Usa accelerometri e motore fisico in LUA.
 *Dove è il mio gatto?*  
 Traccia il proprio gatto grazie a un miniGPS collare. Nell'attesa di risposta il gatto sullo schermo scherza con te.  
 App Android nativa, grafica fumettosa.  
-[(1)](cattracker1.png?raw=1) [(2)](cattracker2.png?raw=1) [(3)](cattracker3.png?raw=1) [(4)](cattracker1.md) [(5)](cattracker2.md) [(6)](cattracker3.md)
+[(1)](cattracker1.png) [(2)](cattracker2.png) [(3)](cattracker3.png) [(4)](cattracker1.md) [(5)](cattracker2.md) [(6)](cattracker3.md)
 ### 💠 mosaic
 *Trasforma le tue foto in un mosaico*  
 Trasforma set di foto, o scatti della webcam, in tessere di un mosaico.  
 Su commissione.  
 c# e libreria .NET per accesso alla webcam.  
-[(1)](mosaic.png?raw=1)
+[(1)](mosaic.png)
 ### 💉 vettricolore
 *Gestionale Web based per veterinari*
 Comprensivo di calendario, cartelle cliniche, fatturazione, acquisizione dati, lettore medagliette NFC...  
 Su commissione.  
 Sviluppato in Ruby on Rails. Frontend Bootstrap. Disponibile anche in versione offline su Raspberry Pi.  
-[(1)](vettricolore1.png?raw=1) [(2)](vettricolore2.png?raw=1) [(3)](vettricolore3.png?raw=1) [(4)](vettricolore4.png?raw=1) [(5)](vettricolore1.md) [(6)](vettricolore2.md)
+[(1)](vettricolore1.png) [(2)](vettricolore2.png) [(3)](vettricolore3.png) [(4)](vettricolore4.png) [(5)](vettricolore1.md) [(6)](vettricolore2.md)
 ### 📌 destinazioni
 *La strada più breve*  
 Progressive Web App navigatore a destinazioni multiple, con ricerca del percorso più rapido.  
 Vanilla Javascript ES6 e API Google Maps.  
-[(1)](destinazioni.png?raw=1)
+[(1)](destinazioni.png)
 ### 🐕 dog_tracker
 *Dove è il mio cane?*  
 Progressive Web App per cercare il proprio cane grazie a medagliette beacon BLE.  
 Vanilla Javascript ES6 con Web Bluetooth. Frontend Bootstrap.  
-[(1)](dogtracker.png?raw=1)
+[(1)](dogtracker.png)
 ### 🏪 lista_spesa
 *Cosa devo comprare?*  
 Lista spesa. Con login, notifiche per gli utenti e assistente AI.
-Vue.js e frontend Bootstrap.  
-[(1)](lista_spesa.jpg?raw=1)
+Vue.js e frontend Bootstrap. Rifatta con Next.js.  
+[(1)](lista_spesa.jpg) [(2)](lista_spesa2.png)
 ### 📕 masseria-menu
 *Menu ristorante*  
 Su commissione.  
 Vue.js e frontend Vuetify.  
-[(1)](masseria-menu.jpg?raw=1) [(link)](https://ristorantemasseria.github.io/menu/)
+[(1)](masseria-menu.jpg) [(link)](https://ristorantemasseria.github.io/menu/)
 ### 👓 irene_VR
 *Una persona in una stanza*  
 Esperienza VR.  
@@ -55,18 +55,19 @@ Test di WebVR. Modello 3D ottenuto da foto.
 *Cosa devo fare?*  
 TODO list divisa in categorie. Si possono anche caricare foto e audio.  
 React CRA e frontend Bootstrap.  
-[(1)](missing1.png?raw=1) [(2)](missing2.png?raw=1) [(3)](missing3.png?raw=1)
+[(1)](missing1.png) [(2)](missing2.png) [(3)](missing3.png)
 ### 🎄 calendario_avvento
 *Festeggia il natale con l'AI*  
 Calendario dell'avvento animato in cui ogni giorno si sbloccano regali. Le immagini sono generate da una AI.
 React CRA, frontend Bootstrap, immagini DALL·E 2.  
-[(1)](calendario_avvento1.png?raw=1) [(2)](calendario_avvento2.png?raw=1)
+[(1)](calendario_avvento1.png) [(2)](calendario_avvento2.png)
 ### 🩺 vetassistant
-*Mi serve un consulto veterinario*
-Chat con assistente AI, addestrato su testi di veterinaria.
-Next.JS, TailwindCSS, Gemini con RAG (retrieval-augmented generation).
-[(1)](vetassistant.png?raw=1) [(2)](vetassistant2.png?raw=1)
+*Mi serve un consulto veterinario*  
+Chat con assistente AI, addestrato su testi di veterinaria.  
+Next.JS, TailwindCSS, Gemini con RAG (retrieval-augmented generation).  
+[(1)](vetassistant.png) [(2)](vetassistant2.png)
 ### ⭕ Tic Tac Toe
 Progetto test.
 Django, frontend Vue, Bootstrap
+
 
